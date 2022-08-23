@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_padding_horizontal">6dp</dimen>
+    <dimen name="textview_margin_end">10dp</dimen>
+    <dimen name="cb_margin_vertical">-5dp</dimen>
+</resources>

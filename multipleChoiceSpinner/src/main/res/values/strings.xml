@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_ur_options">Choose your options</string>
+    <string name="empty_string" />
+    <string name="separator_comma">,</string>
+    <string name="formatted_display_text">%1$s,</string>
+
+</resources>

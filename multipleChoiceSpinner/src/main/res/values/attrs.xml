@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultipleChoiceSpinnerView">
+        <attr name="dropdown_header_select_all_text" format="string"/>
+        <attr name="placeholder_text" format="string"/>
+    </declare-styleable>
+</resources>
